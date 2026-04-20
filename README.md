@@ -109,4 +109,4 @@ GNNs outperform all heuristic baselines by 15-20% AUC, demonstrating the value o
 
 **Aryan Ghogare**
 Semester Project — Applied Deep Learning, Spring 2026
-Contact: [your-email@university.edu]
+Contact: [a.ghogare@ufl.edu]
