@@ -1,0 +1,5 @@
+train_region,test_region,auc_roc,avg_precision,f1,transfer_type
+DE,DE,0.8202,0.8123,0.6667,same-network
+DE,EN,0.6463,0.6181,0.6664,cross-network
+DE,ES,0.7868,0.7608,0.6668,cross-network
+DE,FR,0.7278,0.6929,0.6667,cross-network

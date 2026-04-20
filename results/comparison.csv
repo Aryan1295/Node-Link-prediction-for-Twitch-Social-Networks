@@ -1,0 +1,4 @@
+architecture,params,best_epoch,train_time_s,auc_roc,avg_precision,precision,recall,f1
+GCN,422721,1,5.4,0.8663,0.8761,0.5,1.0,0.6667
+SAGE,836673,47,51.2,0.891,0.8979,0.8412,0.7888,0.8141
+GAT,1666881,126,44.9,0.8927,0.901,0.835,0.7978,0.816
